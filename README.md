@@ -1,4 +1,4 @@
-# LoginPageAnimated
+# Animated Login Page In HTML & CSS.
 
 <img width="963" alt="Screenshot 2024-12-14 141843" src="https://github.com/user-attachments/assets/9bcd244b-db92-440f-ad51-1ce81ec72be1" />
 
