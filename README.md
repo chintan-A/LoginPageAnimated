@@ -1,5 +1,10 @@
 # LoginPageAnimated
 
+<img width="963" alt="Screenshot 2024-12-14 141843" src="https://github.com/user-attachments/assets/9bcd244b-db92-440f-ad51-1ce81ec72be1" />
+
+
+
+
 Objective:
  
  The objective of this project is to create an engaging and visually appealing "Animated Login Form" 
@@ -15,7 +20,7 @@ a dynamic user experience.
 
 Key Features to Include:
  HTML Structure:
- 
+
  Create a basic HTML structure for the login form.
  Include fields for "Username" and "Password".
  Add buttons for "Login", "Forget Password", and "Signup".
